@@ -1,0 +1,24 @@
+# Build and publish results
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Legacy prototype scripts
+Launch-Switcher.bat
+Launch-Switcher.vbs
+AntigravitySwitcher.ps1
+# Root temporary icon
+/app.ico
